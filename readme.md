@@ -43,16 +43,8 @@ You are provided with two CSV files:
    - Create a submission file in CSV format.
    - The submission file should contain a column for the data instance ID and a column for the predicted hazard values.
 
-## Evaluation
-
-The performance of your predictive model will be evaluated based on its ability to accurately predict hazard values for the test data. The evaluation metric will be determined based on the specific objective provided in the project context. The submission file will be used to calculate the model's performance, and you will receive feedback on the quality of your predictions.
-
-## Deliverables
-
-Your submission should include:
-
-1. The Python code implementing the entire process, from data loading to prediction.
-2. A submission file named "submission.csv" containing the predicted hazard values for the test data.
+## Learn about XGboost in 8min
+https://www.youtube.com/watch?v=FakVn1RgDms
 
 ## Conclusion
 
